@@ -1,6 +1,5 @@
 proxies:
-- name: 11,12|日本|@ripaojiedian
-  network: tcp
+- name: 11|🇯🇵 日本|@ripaojiedian
   password: BxceQaOe
   port: 9408
   server: 18.167.96.176
