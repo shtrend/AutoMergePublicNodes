@@ -35,7 +35,8 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 11|🇯🇵 日本|@ripaojiedian
+- name: 11,12|日本|@ripaojiedian
+  network: tcp
   password: BxceQaOe
   port: 9408
   server: 18.167.96.176

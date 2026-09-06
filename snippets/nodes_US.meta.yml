@@ -19,7 +19,8 @@ proxies:
   port: 50001
   server: 103.236.66.4
   type: ss
-- name: 11|🇺🇸 美国3|@ripaojiedian
+- name: 11,12|美国3|@ripaojiedian
+  network: tcp
   password: BxceQaOe
   port: 52770
   server: 18.167.96.176
